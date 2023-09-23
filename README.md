@@ -1,4 +1,4 @@
-# Lenovo Ideapad 5 14IIL05 with Big Sur
+# Lenovo Ideapad 5 14IIL05 with Ventura (13.0.1)
 
 <img src="screenshot.png" alt="Screenshot" width="1000"/>
 
@@ -8,17 +8,15 @@ Laptop Specs:
 - Intel Wireless Killer
 - Realtek ALC257
 
-This is my EFI folder compatbile with MacOS 11.6.1 (Big Sur)
+This is my EFI folder compatbile with MacOS 13.0.1 (Ventura)
 
-- Big Sur 11.6.1
+- Big Sur 13.0.1þ
 - Almost everything work.
 
 ## Bugs:
 
 - Hotkeys for backlight control dont work yet
-- After turning on the macos, the backlight will be set to down (it will look like the computer turned off, but dont worrie), to fix close the computer lid, wait some seconds and open again, the backlight will be back
 - Bluetooth (maybe [IntelBluetoothFirmware] will compatible, i haven't tested it yet)
-- Microphone :(I tested all layouts ID from [AppleALC], but no luck)
 
 ## OBS
 
